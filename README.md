@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nzoth665
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord N'zot#8194
 
