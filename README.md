@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nzoth665
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Discord
 - 📫 How to reach me Discord N'zot#8194
 
 <!---
