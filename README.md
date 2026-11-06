@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Nzoth665
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Discord
-- 📫 How to reach me Discord N'zot#8194
+None
 
 <!---
 Nzoth665/Nzoth665 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
